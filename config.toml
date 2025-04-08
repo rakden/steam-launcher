@@ -1,0 +1,10 @@
+libraryfolders_path = "$HOME/.steam/steam/steamapps/libraryfolders.vdf"
+blacklist = [
+    2805730,
+    1391110,
+    1887720,
+    1493710,
+    228980,
+    1628350,
+    1070560,
+]
