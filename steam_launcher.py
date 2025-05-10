@@ -22,7 +22,7 @@ DB_NAME = "steam_launcher.db"
 DB_TABLE_NAME = "games"
 
 API_URL_STEAM = "https://store.steampowered.com/api/appdetails?appids="
-CMD_USER_SELECT = ["rofi", "-dmenu", "-i", "-matching", "normal", "-p", "steam"]
+CMD_USER_SELECT = ["rofi", "-dmenu", "-i", "-matching", "normal", "-p", " "]
 CMD_LAUNCH_GAME = ["steam", "-applaunch"]
 
 
